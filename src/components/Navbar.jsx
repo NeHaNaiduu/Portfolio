@@ -27,7 +27,7 @@ const Navbar = () => {
                     ))}
                 </ul>
                 <div className="hidden lg:flex justify-center space-x-12 items-center">
-                    <a href="https://drive.google.com/file/d/1ekSsnn6yg7KyMyYp_yx4FpFQcyZkMDc6/view?usp=sharing" className='py-2 px-3 border rounded-md font-semibold hover:text-black hover:bg-white duration-200'>Resume</a>
+                    <a href="https://drive.google.com/file/d/15wal7s2Tb5iBBQ_DoEedZMiBtyHYn6rx/view?usp=sharing" className='py-2 px-3 border rounded-md font-semibold hover:text-black hover:bg-white duration-200'>Resume</a>
                     <a href="#contact" className='bg-gradient-to-r from-purple-500 to-purple-800 px-3 py-2 rounded-md
                     font-semibold hover:bg-gradient-to-l'>Hire me</a>
                 </div>
@@ -47,7 +47,7 @@ const Navbar = () => {
                         ))}
                     </ul>
                     <div className='flex space-x-6 mt-5'>
-                        <a href="https://drive.google.com/file/d/1ekSsnn6yg7KyMyYp_yx4FpFQcyZkMDc6/view?usp=sharing" className='py-2 px-3 border rounded-md font-semibold hover:text-black hover:bg-white duration-200'>Resume</a>
+                        <a href="https://drive.google.com/file/d/15wal7s2Tb5iBBQ_DoEedZMiBtyHYn6rx/view?usp=sharing" className='py-2 px-3 border rounded-md font-semibold hover:text-black hover:bg-white duration-200'>Resume</a>
                         <a href="#contact" className='bg-gradient-to-r from-purple-500 to-purple-800 px-3 py-2 rounded-md font-semibold hover:bg-gradient-to-l'>Hire me</a>
                     </div>
                 </div>
